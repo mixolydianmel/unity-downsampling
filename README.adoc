@@ -1,6 +1,8 @@
 = Unity Downsampling
 Melody Henrich
 
+![Downsampling Screenshot](2023-07-17_19-49.png)
+
 == What is it?
 
 This is a simple downsampling fullscreen shader for Unity.

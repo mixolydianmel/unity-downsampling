@@ -16,7 +16,7 @@ in the Downsampling Material located in Effects > Downsampling.
 
 == Thanks
 
-+ [Game Dev Bill](https://gamedevbill.com/full-screen-shaders-in-unity/) - Fullscreen shader guide
++ https://gamedevbill.com/full-screen-shaders-in-unity/[Game Dev Bill] - Fullscreen shader guide
 
 == License
 
